@@ -1,0 +1,93 @@
+jenkins Default Plugins
+
+Ionicons API
+Folders
+OWASP Markup Formatter
+ASM API
+JSON Path API
+Structs
+Pipeline: Step API
+Token Macro
+Build Timeout
+Credentials
+Plain Credentials
+Variant
+SSH Credentials
+Credentials Binding
+SCM API
+Pipeline: API
+commons-lang3 v3.x Jenkins API
+Timestamper
+Caffeine API
+Script Security
+JavaBeans Activation Framework (JAF) API
+JAXB
+SnakeYAML API
+JSON Api
+Jackson 2 API
+commons-text API
+Pipeline: Supporting APIs
+Plugin Utilities API
+Font Awesome API
+Bootstrap 5 API
+JQuery3 API
+ECharts API
+Display URL API
+Checks API
+JUnit
+Matrix Project
+Resource Disposer
+Workspace Cleanup
+Ant
+JavaMail API
+Durable Task
+Pipeline: Nodes and Processes
+bouncycastle API
+Instance Identity
+Pipeline: SCM Step
+Pipeline: Groovy
+Pipeline: Job
+Jakarta Activation API
+Jakarta Mail API
+Apache HttpComponents Client 4.x API
+Mailer
+Pipeline: Basic Steps
+Gradle
+Pipeline: Milestone Step
+Pipeline: Build Step
+Pipeline: Groovy Libraries
+Pipeline: Stage Step
+Joda Time API
+Pipeline: Model API
+Pipeline: Declarative Extension Points API
+Branch API
+Pipeline: Multibranch
+Pipeline: Stage Tags Metadata
+Pipeline: Input Step
+Pipeline: Declarative
+Pipeline
+Java JSON Web Token (JJWT)
+OkHttp
+GitHub API
+Mina SSHD API :: Common
+Mina SSHD API :: Core
+Gson API
+Trilead API
+Git client
+Git
+GitHub
+GitHub Branch Source
+Pipeline: GitHub Groovy Libraries
+Pipeline Graph Analysis
+Metrics
+Pipeline Graph View
+Git
+SSH Build Agents
+Matrix Authorization Strategy
+PAM Authentication
+LDAP
+Email Extension
+Mailer
+Theme Manager
+Dark Theme
+** - required dependency
